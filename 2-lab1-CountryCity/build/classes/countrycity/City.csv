@@ -1,0 +1,8 @@
+id, countryCode,   name,      continent, SurfaceArea, population
+1,11,            Berlin,    Europe,220, 300
+2,11,            Hamburg,   Europe,130, 230
+3,11,            Dusseldorf,Europe,134,  420
+4,22,            Madrid,    Europe,220, 320
+5,22,            Barcelona, Europe,390, 401
+6,33,            Cairo,     Africa,190, 134
+7,33,            Sohag,     Africa,160, 189
